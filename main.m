@@ -1,0 +1,1 @@
+get_map('image_filename');
